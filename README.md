@@ -15,16 +15,17 @@ git clonehttps://github.com/harsh1493/iKeep.git
 2) CD into the folder
 
 ```sh
-cd IKeep
+cd todoDemo
 ```
 
 3) Install dependencies for both frontend and backend
 
 ```sh
-npm i
 cd backend
 npm i
 cd ..
+cd frontend
+npm i
 ```
 
 4) run both server and react app using both.js script defined in package.json
