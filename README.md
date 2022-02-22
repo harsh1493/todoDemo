@@ -34,4 +34,4 @@ npm i
 npm run both
 ```
 
-5) Launches https://localhost:3000 in the browser
+5) Launches https://localhost:5000 in the browser
