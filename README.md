@@ -1,4 +1,4 @@
-# todoDeno
+# todoDemo
 A todo list with CRUD features build in MERN stack
 
 
