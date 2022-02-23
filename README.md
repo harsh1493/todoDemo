@@ -4,7 +4,6 @@ A todo list with CRUD features build in MERN stack
 
 ## How to Setup and Run
 
-### Method 1: Docker
 
 1) Clone the Git repository
 
