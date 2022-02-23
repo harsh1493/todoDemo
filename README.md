@@ -8,7 +8,7 @@ A todo list with CRUD features build in MERN stack
 1) Clone the Git repository
 
 ```sh
-git clonehttps://github.com/harsh1493/iKeep.git
+git clonehttps://github.com/harsh1493/todoDemo.git
 ```
 
 2) CD into the folder
